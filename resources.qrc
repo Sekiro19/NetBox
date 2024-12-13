@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/icons/cil-terminal.png</file>
+    <file>images/img/x.webp</file>
+    <file>images/icons/cil-arrow-bottom.png</file>
+    <file>images/icons/logo.svg</file>
+    <file>images/img/rand_1.jpg</file>
+    <file>images/icons/loadingInf.gif</file>
+    <file>images/icons/loadingInf.svg</file>
+    <file>images/icons/icons8-download-24 (1).png</file>
+    <file>images/icons/icons8-download-24.png</file>
+    <file>images/icons/icons8-trash-bin-24.png</file>
+    <file>images/icons/icons8-send-24.png</file>
+    <file>images/icons/icons8-send-24hover.png</file>
+    <file>images/icons/msgAddFile.png</file>
+    <file>images/img/server.png</file>
+    <file>images/icons/icon_online.svg</file>
+    <file>images/icons/icon_offline.svg</file>
+    <file>images/icons/icon.ico</file>
+  </qresource>
+</RCC>
